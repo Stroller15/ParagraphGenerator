@@ -1,8 +1,5 @@
 # Paragraph Generator
-App link : https://temparagenerator.netlify.app/
-
-This is a paragraph generator app.
-Created using Html , Css , Javascript.
+Welcome to our paragraph generator web app, built using HTML, CSS, and JavaScript. This app allows users to generate random paragraphs based on a specified number.
 
 
 ## Authors
